@@ -2,6 +2,9 @@
 ## the inverse of a matrix, and retrieve the cached inverse
 ## where possible to save on computational time
 
+## *** functions are modified versions from examples given
+## in Roger Peng's readme file for the assignment repository ***
+
 ## makeCacheMatrix is a function that creates a matrix object
 ## and cache's its inverse
 
